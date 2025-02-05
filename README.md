@@ -4,7 +4,7 @@
 Declare variáveis com os seguintes tipos:
 - Uma string com o valor `"TypeScript é incrível"`.
 - Um número com o valor `42`.
-- Um booleano com o valor `true`.
+    - Um booleano com o valor `true`.
 
 ## 2. Função com Tipagem
 Crie uma função chamada `soma` que receba dois números como parâmetros e retorne a soma deles. Certifique-se de tipar corretamente os parâmetros e o retorno.
